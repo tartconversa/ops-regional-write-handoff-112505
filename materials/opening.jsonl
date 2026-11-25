@@ -1,0 +1,4 @@
+{"tenant":"metro","shard":"task","epoch":7,"owner":"east","confirmed_offset":118,"east_applied":118,"west_applied":116}
+{"tenant":"metro","shard":"ack","epoch":7,"owner":"east","confirmed_offset":41,"east_applied":41,"west_applied":38}
+{"tenant":"metro","shard":"meta","epoch":3,"owner":"east","confirmed_offset":17,"east_applied":17,"west_applied":17}
+{"tenant":"haven","shard":"task","epoch":4,"owner":"east","confirmed_offset":96,"east_applied":96,"west_applied":96}

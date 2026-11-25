@@ -1,0 +1,3 @@
+{"tenant":"metro","group":"jobs","members":["task","ack"],"min_history":{"task":100,"ack":34},"write_nodes":{"east":["e-api","e-batch"],"west":["w-api","w-batch"]}}
+{"tenant":"haven","group":"jobs","members":["task"],"min_history":{"task":90},"write_nodes":{"east":["e-api"],"west":["w-api"]}}
+{"tenant":"metro","group":"catalog","members":["meta"],"min_history":{"meta":12},"write_nodes":{"east":["e-index"],"west":["w-index"]}}
