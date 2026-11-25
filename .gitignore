@@ -10,3 +10,8 @@ coverage/
 __pycache__/
 *.py[cod]
 .DS_Store
+.dutyctl-state.json
+.dutyctl-state.json.lock
+.dutyctl-*.json
+.dutyctl-*.json.lock
+runs/
